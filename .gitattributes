@@ -1,2 +1,77 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+  <meta name="dcterms.created" content="Tue, 24 Jan 2023 08:32:53 GMT">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <title>rjs-grid-galley_unsplash_Feb28</title>
+  <link rel="stylesheet" href="rjs-grid-gallery_unsplash_Mar4.css">
+  
+    
+</head>
+<body>
+<h2>GRID GALLERY</h2>
+
+  <div class="container">
+    <div class="gallery-container">
+      <div class="gallery-item w-1 h-1">
+        <div class="image"><img src="https://source.unsplash.com/300x300/?nature" alt=""></div>
+        <div class="text">
+          nature
+        </div>
+      </div>
+    </div>
+    
+    <div class="gallery-container">
+      <div class="gallery-item w-1 h-2">
+        <div class="image"><img src="https://source.unsplash.com/300x300/?people" alt=""></div>
+        <div class="text">
+          people
+        </div>
+      </div>
+    </div>
+    
+    <div class="gallery-container">
+      <div class="gallery-item w-1 h-1">
+        <div class="image"><img src="https://source.unsplash.com/300x300/?fitness" alt=""></div>
+        <div class="text">
+          fitness
+        </div>
+      </div>
+    </div>
+    
+    <div class="gallery-container">
+      <div class="gallery-item w-1 h-1">
+        <div class="image"><img src="https://source.unsplash.com/300x300/?travel" alt=""></div>
+        <div class="text">
+          travel
+        </div>
+      </div>
+    </div>
+    
+    <div class="gallery-container">
+      <div class="gallery-item w-1 h-1">
+        <div class="image"><img src="https://source.unsplash.com/300x300/?art" alt=""></div>
+        <div class="text">
+          artstuff
+        </div>
+      </div>
+    </div>
+    <div class="gallery-container">
+      <div class="gallery-item w-1 h-1">
+        <div class="image"><img src="https://source.unsplash.com/300x300/?cars" alt=""></div>
+        <div class="text">
+          cars
+        </div>
+      </div>
+    </div>
+
+  <!-- end of container div -->
+  </div>
+</body>
+</html>
